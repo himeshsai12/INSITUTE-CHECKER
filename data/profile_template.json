@@ -1,0 +1,29 @@
+{
+  "id": "your-institution-id",
+  "name": "Your institution name",
+  "city": "Your city",
+  "state": "Your state",
+  "university": "Not disclosed",
+  "ownership": "Not disclosed",
+  "aishe_code": null,
+  "demo": false,
+  "identity_evidence_id": "identity",
+  "admissions": [],
+  "placements": [],
+  "courses": [],
+  "accreditations": [],
+  "recruiters": [],
+  "campus": {},
+  "commercial": {},
+  "evidence": [
+    {
+      "id": "identity",
+      "title": "Replace with the institution identity source",
+      "source_type": "Internal diligence",
+      "status": "Unverified",
+      "observed_on": "2026-10-14",
+      "period": "Not specified",
+      "excerpt": "Replace with your identity reference and observation date."
+    }
+  ]
+}

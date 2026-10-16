@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/*.db
+data/*.db-*
+artifacts/
+*.log
+/MENTOR_REQUIREMENTS.md
